@@ -1,0 +1,178 @@
+body{
+    margin: 0 auto;
+}
+
+.menu{
+    background-color: #F0FFF0;
+}
+
+ul li {
+    font-size: 20px;
+    padding-right: 25px;
+ 
+}
+
+img {
+width: 250PX;
+margin: 0px;
+}
+.banner{
+    background-color: #F0FFF0;
+}
+.banner img{
+    margin-top: 70px;
+    margin-bottom: 70px;
+    width: 100%;  
+}
+.content{
+    margin-top: 150px;
+}
+
+.any{
+    color:#21B573;
+    font-size: 48px;
+}
+
+.content h5{
+    color: red;
+}
+
+.content h1{
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.btn-start {
+    border: none;
+    padding: 10px 30px;
+    background-color: #21B573;
+    border-radius: 50px; 
+    color: #fff;
+    font-size: 20px;
+}
+.features {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.icon{
+    border: none;
+    background-color: #F0FFF0;
+    padding: 40px;
+    transition: .5s; 
+}
+
+.icon:hover{
+    border: none;
+    background-color: #Fff;
+    padding: 40px;
+    box-shadow: 0px 0px 20px 5px lightgray;
+    transform: scale(1.05);
+}
+
+ #Features{
+     margin-top: 60px;
+ }
+     
+ 
+ #Features h2 {
+    font-size: 23px;
+    font-weight: 700;
+  
+}
+
+#Features img{
+    width: 100px;
+    margin-bottom: 80px;
+    margin-left: 30px;
+}   
+
+#Pricing{
+    margin-bottom: 80px;
+    margin-top: 50px;
+}
+
+#Pricing h1{
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.card{
+    border: none;
+    box-shadow: 0px 0px 20px 5px lightgray;
+    border-radius: 20px;
+}
+
+.card img{
+    border-radius: 30px;
+    padding: 20px;
+}
+
+.card-body h5{
+    margin-bottom: 25px;
+}
+
+.buy{
+    margin-bottom: 30px;
+}
+
+span{
+    font-size: 15px;
+}
+
+.seats{
+    margin-left: 75px;
+    color: black
+}
+#Disabled h1{
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+#Disabled{
+    margin-bottom: 80px;
+}
+
+.tesi{
+    margin-top: 75px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.contact{
+    background-color: #282531;
+}
+
+.contact{
+    margin-top: 80px;
+}
+
+.contact-info{
+    color: #fff;
+}
+
+.all h6{
+    margin-top: 160px;
+    margin-bottom: 80px;
+}
+
+.crs{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.terms{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.useful{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+footer{
+    background-color: #282531;
+    color: #fff;
+    text-align: center
+}
